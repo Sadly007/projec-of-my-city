@@ -1,17 +1,39 @@
-.header-container {
+/* .header-container {
     height: 87px;
-}
+} */
 
-.nav {
+/* .nav {
     display: flex;
-}
+} */
 
-.nav-ul {
+/* .nav-ul {
     display: block;
-}
+} */
 
 .header-nav {
-    display: block;
+    display: flex;
+    /* display: block; */
     border: 1px solid black;
     
+}
+
+.btn {
+    background-color: transparent;
+    border: 1px solid red;
+}
+
+.heder-nav-serch {
+    display: block;
+
+    width: 229px;
+    border: 1px solid #939393;
+    border-radius: 11px;
+}
+
+li {
+    display: block;
+}
+
+.logo {
+    display: block;
 }
