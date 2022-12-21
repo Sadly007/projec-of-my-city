@@ -1,0 +1,17 @@
+.header-container {
+    height: 87px;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav-ul {
+    display: block;
+}
+
+.header-nav {
+    display: block;
+    border: 1px solid black;
+    
+}
