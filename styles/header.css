@@ -1,0 +1,26 @@
+.header {
+    background-color: #161616;
+    color: #939393;
+}
+
+.nav {
+    display: block;
+}
+
+.logo {
+    display: block;
+}
+
+.heder-nav-serch {
+    display: flex;
+}
+
+.btn {
+    border-color: transparent;
+    background-color: transparent;
+    color: #939393;
+}
+
+.header-nav {
+    display: flex;
+}
